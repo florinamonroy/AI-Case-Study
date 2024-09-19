@@ -23,10 +23,12 @@ A focused case study that analyzes how an AI company responds to the problems an
 > Anthropic was founded by siblings Dario Amodei and Daniela Amodei, who previously worked at OpenAI, along with nine other OpenAI employees. ([AIBusiness](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal))
 
 * How did the idea for the company (or project) come about? 
-> OpenAI’s ChatGPT was largely a blackbox. Amodei siblings wanted to maintain understanding of how AI systems work, focusing on values alignment and safety in order to address ethical concerns related to artificial intelligence. ([Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world))
+> OpenAI’s ChatGPT was largely a blackbox. Amodei siblings wanted to maintain understanding of how AI systems work, focusing on values alignment and safety in order to address ethical concerns related to artificial intelligence. They did not agree with the direction OpenAI was heading. They left in 2020 to start their own company. ([Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world))
+
+>“We left OpenAI because of concerns around the direction...We wanted to be sure the tools were being used reliably and responsibly. We want to be the most responsible A.I. we can, always asking the question, ‘What could go wrong here?’ -- Daniela Amodei” ([Observer](https://observer.com/2024/05/anthropics-sibling-founders-on-leaving-openai-to-start-a-15b-startup/))
 
 * How is the company funded? How much funding have they received? 
-> Anthropic is funded through venture capital investments, corporate partnerships, and philanthropic  and research grants. The company has raised $1.5 Billion so far. ([Blog.Google](https://blog.google/outreach-initiatives/public-policy/google-microsoft-anthropic-open-ai-frontier-model-forum-executive-director/))
+> Anthropic is funded through venture capital investments, corporate partnerships, and philanthropic  and research grants. The company has raised $5.6 Billion so far, as of September 2024. ([Blog.Google](https://blog.google/outreach-initiatives/public-policy/google-microsoft-anthropic-open-ai-frontier-model-forum-executive-director/))
 
 ## Business Activities
 
@@ -79,6 +81,7 @@ A focused case study that analyzes how an AI company responds to the problems an
 
 * Why are these technologies appropriate for your solution? 
 > Talk is cheap. If companies do not adapt a structured product development ([Cheng-Wynn](https://www.facebook.com/Productboard/photos/are-you-ready-to-redefine-product-excellence-your-guide-to-yuying-chen-wynns-ai-/901809435280333/?checkpoint_src=any))to AI technology and mechanisms offered by Anthropic and top AI companies, benefits of artificial intelligence will remain aspirational. 
+
 
 ### References
 Sebastian Moss. (2021, June 2) Eleven OpenAI Employees Break Off to Establish Anthropic, Raise $124 Million. [AIBusiness](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal)
