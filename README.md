@@ -82,11 +82,18 @@ A focused case study that analyzes how an AI company responds to the problems an
 
 ### References
 Sebastian Moss. (2021, June 2) Eleven OpenAI Employees Break Off to Establish Anthropic, Raise $124 Million. [AIBusiness](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal)
+
 Kevin Roose. (2024, May 21) A.I.’s Black Boxes Just Got a Little Less Mysterious. [NYTimes](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html)
+
 Robert Hart. (2024, June 26) Anthropic’s Claude: What To Know About ChatGPT Rival After Latest Model Trounces Industry Giants. [Forbes](https://www.forbes.com/sites/roberthart/2024/06/26/anthropics-claude-what-to-know-about-chatgpt-rival-after-latest-model-trounces-industry-giants/)
+
 *No author* (2023, October 5) Anthropic, Google, Microsoft and OpenAI announce Executive Director of the Frontier Model Forum and over $10 million for a new AI Safety Fund. [Blog.Google](https://blog.google/outreach-initiatives/public-policy/google-microsoft-anthropic-open-ai-frontier-model-forum-executive-director/)
+
 Evgenia Kuzmenko. (2024, July 3) The Inspiring Journey of Daniela Amodei, Anthropic’s Leader. [Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world)
+
 Alex Singla, Alexander Sukharevsky, Lareina Yee, and Michael Chui, with Bryce Hall. (2024, May 30) The state of AI in early 2024: Gen AI adoption spikes and starts to generate value. [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+
 Michael Nunez. (2024, September 10) Is Anthropic’s new ‘Workspaces’ feature the future of enterprise AI management? [VentureBeat](https://venturebeat.com/ai/is-anthropics-new-workspaces-feature-the-future-of-enterprise-ai-management/)
+
 Yuying Cheng-Wynn. How to Implement Product Frameworks. [Productboard](https://www.facebook.com/Productboard/photos/are-you-ready-to-redefine-product-excellence-your-guide-to-yuying-chen-wynns-ai-/901809435280333/?checkpoint_src=any)
 
