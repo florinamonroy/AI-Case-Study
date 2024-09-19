@@ -83,7 +83,8 @@ A focused case study that analyzes how an AI company responds to the problems an
 > Talk is cheap. If companies do not adapt a structured product development ([Cheng-Wynn](https://www.facebook.com/Productboard/photos/are-you-ready-to-redefine-product-excellence-your-guide-to-yuying-chen-wynns-ai-/901809435280333/?checkpoint_src=any))to AI technology and mechanisms offered by Anthropic and top AI companies, benefits of artificial intelligence will remain aspirational. 
 
 
-### References
+
+## References
 Sebastian Moss. (2021, June 2) Eleven OpenAI Employees Break Off to Establish Anthropic, Raise $124 Million. [AIBusiness](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal)
 
 Kevin Roose. (2024, May 21) A.I.’s Black Boxes Just Got a Little Less Mysterious. [NYTimes](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html)
@@ -100,6 +101,4 @@ Michael Nunez. (2024, September 10) Is Anthropic’s new ‘Workspaces’ featur
 
 Yuying Cheng-Wynn. How to Implement Product Frameworks. [Productboard](https://www.facebook.com/Productboard/photos/are-you-ready-to-redefine-product-excellence-your-guide-to-yuying-chen-wynns-ai-/901809435280333/?checkpoint_src=any)
 
-Author: Florina Monroy
-AI Bootcamp
-September 19, 2024
+
