@@ -1,22 +1,28 @@
 # AI-Case-Study
 A focused case study that analyzes how an AI company responds to the problems and needs of the AI field it is in, and how it is using AI technology to solve a standing problem.
-# CASE STUDY: INSERT TITLE HERE
+# CASE STUDY: ANTHROPIC
 
 ## Overview and Origin
 
 * Name of company: Anthropic
 
-* When was the company incorporated? 2021 [Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world)
+* When was the company incorporated? 
+> 2021 ([Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world))
 
-* Who are the founders of the company? Anthropic was founded by siblings Dario Amodei and Daniela Amodei, who previously worked at OpenAI, along with nine other OpenAI employees.[AIBusiness](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal)
+* Who are the founders of the company? 
+> Anthropic was founded by siblings Dario Amodei and Daniela Amodei, who previously worked at OpenAI, along with nine other OpenAI employees. ([AIBusiness](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal))
 
-* How did the idea for the company (or project) come about? 'OpenAI’s ChatGPT was largely a blackbox. Amodei siblings wanted to maintain understanding of how AI systems work, focusing on values alignment and safety in order to address ethical concerns related to artificial intelligence. [Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world)
+* How did the idea for the company (or project) come about? 
+> OpenAI’s ChatGPT was largely a blackbox. Amodei siblings wanted to maintain understanding of how AI systems work, focusing on values alignment and safety in order to address ethical concerns related to artificial intelligence. ([Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world))
 
-* How is the company funded? How much funding have they received? Anthropic is funded through venture capital investments, corporate partnerships, and philanthropic  and research grants. The company has raised $1.5 Billion so far. [Blog.Google](https://blog.google/outreach-initiatives/public-policy/google-microsoft-anthropic-open-ai-frontier-model-forum-executive-director/)
+* How is the company funded? How much funding have they received? 
+> Anthropic is funded through venture capital investments, corporate partnerships, and philanthropic  and research grants. The company has raised $1.5 Billion so far. ([Blog.Google](https://blog.google/outreach-initiatives/public-policy/google-microsoft-anthropic-open-ai-frontier-model-forum-executive-director/))
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? IFrom Anthropic, ‘Anthropic is an AI safety and research company. [They] build reliable, interpretable, and steerable AI systems.’ Anthropic is focused on finding clues to how AI works to prevent threats posed by the use of AI. [NYTimes](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html)
+* What specific problem is the company or project trying to solve? 
+> From Anthropic, ‘Anthropic is an AI safety and research company. [They] build reliable, interpretable, and steerable AI systems.’ 
+> Anthropic is focused on finding clues to how AI works to prevent threats posed by the use of AI. ([NYTimes](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html))
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers? Anthropic’s intended customers include technology companies, research institutions, and enterprises that are interested in deploying AI systems responsibly. The market size is substantial, encompassing various sectors looking for safe and ethical AI solutions such as the financial and healthcare industries [Forbes](https://www.forbes.com/sites/roberthart/2024/06/26/anthropics-claude-what-to-know-about-chatgpt-rival-after-latest-model-trounces-industry-giants/) [Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world)
 
