@@ -100,3 +100,6 @@ Michael Nunez. (2024, September 10) Is Anthropic’s new ‘Workspaces’ featur
 
 Yuying Cheng-Wynn. How to Implement Product Frameworks. [Productboard](https://www.facebook.com/Productboard/photos/are-you-ready-to-redefine-product-excellence-your-guide-to-yuying-chen-wynns-ai-/901809435280333/?checkpoint_src=any)
 
+Author: Florina Monroy
+AI Bootcamp
+September 19, 2024
