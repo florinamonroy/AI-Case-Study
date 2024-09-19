@@ -2,9 +2,19 @@
 A focused case study that analyzes how an AI company responds to the problems and needs of the AI field it is in, and how it is using AI technology to solve a standing problem.
 # CASE STUDY: ANTHROPIC
 
+## Table of Contents
+
+- [Overview and Origin](#overview-and-origin)
+- [Business Activities](#business-activities)
+- [Landscape](#landscape)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [References](#references)
+
 ## Overview and Origin
 
-* Name of company: Anthropic
+* Name of company: 
+> __Anthropic__
 
 * When was the company incorporated? 
 > 2021 ([Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world))
@@ -68,4 +78,15 @@ A focused case study that analyzes how an AI company responds to the problems an
 > More than technology, they would need an army of AI tech savvy consultants and relationship managers to not only sell the services but also a fast tracked approach to train customers on how to leverage AI technology to transition product development and optimized internal processes.
 
 * Why are these technologies appropriate for your solution? 
-> Talk is cheap. If companies do not adapt product development to AI technology and mechanisms offered by Anthropic and top AI companies, benefits of artificial intelligence will remain aspirational.
+> Talk is cheap. If companies do not adapt a structured product development ([Cheng-Wynn](https://www.facebook.com/Productboard/photos/are-you-ready-to-redefine-product-excellence-your-guide-to-yuying-chen-wynns-ai-/901809435280333/?checkpoint_src=any))to AI technology and mechanisms offered by Anthropic and top AI companies, benefits of artificial intelligence will remain aspirational. 
+
+### References
+Sebastian Moss. (2021, June 2) Eleven OpenAI Employees Break Off to Establish Anthropic, Raise $124 Million. [AIBusiness](https://aibusiness.com/verticals/eleven-openai-employees-break-off-to-establish-anthropic-raise-124m#close-modal)
+Kevin Roose. (2024, May 21) A.I.’s Black Boxes Just Got a Little Less Mysterious. [NYTimes](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html)
+Robert Hart. (2024, June 26) Anthropic’s Claude: What To Know About ChatGPT Rival After Latest Model Trounces Industry Giants. [Forbes](https://www.forbes.com/sites/roberthart/2024/06/26/anthropics-claude-what-to-know-about-chatgpt-rival-after-latest-model-trounces-industry-giants/)
+*No author* (2023, October 5) Anthropic, Google, Microsoft and OpenAI announce Executive Director of the Frontier Model Forum and over $10 million for a new AI Safety Fund. [Blog.Google](https://blog.google/outreach-initiatives/public-policy/google-microsoft-anthropic-open-ai-frontier-model-forum-executive-director/)
+Evgenia Kuzmenko. (2024, July 3) The Inspiring Journey of Daniela Amodei, Anthropic’s Leader. [Kitrum](https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/#Building-safe-AI-for-a-better-world)
+Alex Singla, Alexander Sukharevsky, Lareina Yee, and Michael Chui, with Bryce Hall. (2024, May 30) The state of AI in early 2024: Gen AI adoption spikes and starts to generate value. [McKinsey](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+Michael Nunez. (2024, September 10) Is Anthropic’s new ‘Workspaces’ feature the future of enterprise AI management? [VentureBeat](https://venturebeat.com/ai/is-anthropics-new-workspaces-feature-the-future-of-enterprise-ai-management/)
+Yuying Cheng-Wynn. How to Implement Product Frameworks. [Productboard](https://www.facebook.com/Productboard/photos/are-you-ready-to-redefine-product-excellence-your-guide-to-yuying-chen-wynns-ai-/901809435280333/?checkpoint_src=any)
+
